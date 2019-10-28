@@ -1,0 +1,6 @@
+duration:
+  second : 200
+  milisecond : 3000
+
+  getSecond :
+  getMilisecond :
